@@ -27,6 +27,7 @@ If you're interested in customizing your game a little bit more and wish to set 
 - "Cousin Roll Ups"
 - "Present Roll Ups"
 - "Super Clears"
-
+- "Long"
+- "Difficult"
 # How to install
 Go to the releases on github (found on the right side of the screen on desktop) and download the latest APWorld version.
