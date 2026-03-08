@@ -1,0 +1,18 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+	"game": "WeLoveKatamariReroll",
+	"creator": "sapphisylph",
+	"filler_item_name": "Stardust",
+	"starting_items": [
+		{
+			"item_categories": ["File State"]
+		},
+		{
+			"if_previous_item": "Starting with new save",
+			"item_categories": ["Group 1"]
+		},
+		{
+			"item_categories": ["Group 0"]
+		}
+	]
+}

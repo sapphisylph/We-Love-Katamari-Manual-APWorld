@@ -1,0 +1,1843 @@
+[
+  {
+    "count": 1,
+    "name": "Soccer Kid",
+    "category": [
+      "Group 0",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rainbow Girl",
+    "category": [
+      "Group 1",
+      "Group 2",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lazybones",
+    "category": [
+      "Group 2",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Float Boy",
+    "category": [
+      "Group 2",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ikebana Teacher",
+    "category": [
+      "Group 2",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cleanly Mom",
+    "category": [
+      "Group 2",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hansel & Gretel",
+    "category": [
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Camper Man",
+    "category": [
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans",
+	  "Group Progression"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grandpa",
+    "category": [
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Substitute Teacher",
+    "category": [
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans",
+	  "Group Progression"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mini-Sumo",
+    "category": [
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crane Hat Boy",
+    "category": [
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "F1 Racer",
+    "category": [
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans",
+	  "Group Progression"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grandma",
+    "category": [
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Book Worm",
+    "category": [
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Snow Child",
+    "category": [
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dr. Katamari",
+    "category": [
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Fans",
+	  "Group Progression"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Excited Baby",
+    "category": [
+      "Group 5",
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fund-raiser",
+    "category": [
+      "Group 5",
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cowbear Farmer",
+    "category": [
+      "Group 5",
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rain Coat Girl",
+    "category": [
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bird & Elephant",
+    "category": [
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Just-right Girl",
+    "category": [
+      "Group 6",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dog",
+    "category": [
+      "Group 7",
+	  "Fans"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ace - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Slip - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Macho - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "L'Amour - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ichigo - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Marny - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Can-Can - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Havana - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Kinoko - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Honey - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Miso - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Huey - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Johnson - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Twinkle - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Kuro - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dipp - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lalala - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Foomin - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Miki - Cousinsanity",
+    "category": [
+      "Cousinsanity",
+	  "Long"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Velvet - Cousinsanity",
+    "category": [
+      "Cousinsanity",
+	  "Long"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Odeon - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Nik - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Beyond - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Njamo - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Odeko - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Shy - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Nickel - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Opeo - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "June - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fujio - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Jungle - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Daisy - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Marcy - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Peso - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Signolo - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Shikao - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lucha - Cousinsanity",
+    "category": [
+      "Cousinsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Nutsuo - Cousinsanity",
+    "category": [
+      "Cousinsanity",
+	  "Long"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Drooby - Cousinsanity",
+    "category": [
+      "Cousinsanity",
+	  "Long"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ace",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Slip",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Macho",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "L'Amour",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ichigo",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Marny",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Can-Can",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Havana",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Kinoko",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Honey",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Miso",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Huey",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Johnson",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Twinkle",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Kuro",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dipp",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lalala",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Foomin",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Miki",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Velvet",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Odeon",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Nik",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Beyond",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Njamo",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Odeko",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Shy",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Nickel",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Opeo",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "June",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fujio",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jungle",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Daisy",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Marcy",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Peso",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Signolo",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Shikao",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lucha",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Nutsuo",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Drooby",
+    "category": [
+      "The Cousins",
+      "Cousinsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Headphones - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Antenna - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Flower - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bikini - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Camera - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mushroom - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Long Nose - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ribbons - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Crown - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Glasses - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Royal Mask - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Little Buddy - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Wig - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Cool Belt - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Giraffe Hat - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Horsey - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Pochette - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Trumpet - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Peacock Feathers - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Moustache - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Scarf - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Guitar - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mask - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Mt. Fuji - Presentsanity",
+    "category": [
+      "Presentsanity"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Headphones",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Antenna",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Flower",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Bikini",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Camera",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mushroom",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Long Nose",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ribbons",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Crown",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Glasses",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Royal Mask",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Little Buddy",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Wig",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cool Belt",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Giraffe Hat",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Horsey",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pochette",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Trumpet",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Peacock Feathers",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Moustache",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Scarf",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Guitar",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mask",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mt. Fuji",
+    "category": [
+      "The Presents",
+      "Presentsanity Disabled"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! ALAP 1",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 1",
+      "Group 2",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! AFAP 1",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! ALAP 2",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 2",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! AFAP 2",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Underwater",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 2",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Fast Underwater",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Flowers",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 2",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Fast Flowers",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Cleaning",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 2",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Sweets",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Sweetsville",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Small Fire",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Group Progression"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Medium Fire",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Large Fire",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! ALAP 3",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! AFAP 3",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! School",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Group Progression"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Students",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Sumo 1 (Komusubi)",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Sumo 2 (Ozeki)",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Sumo 3 (Yokozuna)",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Cranes",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Race",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Group Progression"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Fast Race",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! ALAP 4",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! AFAP 4",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Fireflies",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Snowman",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Friends",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Group Progression"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Fast Friends",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! 50 Items",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Money",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Cowbear",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Clouds",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! ALAP 5",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! AFAP 5",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Small Just Right",
+    "category": [
+      "Levels",
+      "Level Unlock Mode",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Medium Just Right",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Large Just Right",
+    "category": [
+      "Levels",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Level Unlock! Roll Up The Sun",
+    "category": [
+      "Final Level",
+      "Level Unlock Mode",
+      "Group 7"
+    ],
+    "progression": true
+  },
+  {
+    "count": 40,
+    "name": "Level Complete",
+    "category": [
+      "Levels Completed",
+      "Level Unlock Mode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starting with new save",
+    "category": [
+      "New File",
+	  "File State"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starting with existing save",
+    "category": [
+      "Existing File",
+	  "File State"
+    ],
+    "progression": true
+  },
+  {
+    "count": 0,
+    "name": "Stun Trap - Stop rolling for 10 seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Slow Trap - Unable to dash for 30 seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Blind Trap - Look away for 15 seconds",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 0,
+    "name": "Retry current level",
+    "category": [
+      "Traps"
+    ],
+    "trap": true
+  }
+]

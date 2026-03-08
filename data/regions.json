@@ -1,0 +1,370 @@
+{
+	"Tutorial": {
+		"starting": true,
+		"connects_to": [
+			"ALAP 1",
+			"Existing File"
+		],
+		"requires": []
+	},
+	"Existing File": {
+		"connects_to": [
+			"ALAP 1",
+			"AFAP 1",
+			"Underwater",
+			"Fast Underwater",
+			"Flowers",
+			"Fast Flowers",
+			"Cleaning",
+			"ALAP 2",
+			"AFAP 2",
+			"Sweets",
+			"Sweetsville",
+			"Small Fire",
+			"Medium Fire",
+			"Large Fire",
+			"School",
+			"Students",
+			"ALAP 3",
+			"AFAP 3",
+			"Sumo 1",
+			"Sumo 2",
+			"Sumo 3",
+			"Cranes",
+			"Race",
+			"Fast Race",
+			"Fireflies",
+			"Snowman",
+			"Friends",
+			"Fast Friends",
+			"ALAP 4",
+			"AFAP 4",
+			"50 Items",
+			"Money",
+			"Cowbear",
+			"Clouds",
+			"Small Just Right",
+			"Medium Just Right",
+			"Large Just Right",
+			"ALAP 5",
+			"AFAP 5",
+			"Roll Up The Sun"
+		],
+		"requires": "|Starting with existing save|"
+	},
+	"ALAP 1": {
+		"connects_to": [
+			"AFAP 1",
+			"ALAP 2",
+			"Underwater",
+			"Cleaning",
+			"Flowers",
+			"Macho Collect"
+		],
+		"requires": "|Rainbow Girl| or |Level Unlock! ALAP 1|"
+	},
+	"AFAP 1": {
+		"connects_to": [
+			"Macho Collect"
+		],
+		"requires": "|Rainbow Girl| or |Level Unlock! AFAP 1|"
+	},
+	"Macho Collect": {
+		"connects_to": [],
+		"requires": ""
+	},
+	"Underwater": {
+		"connects_to": [
+			"Fast Underwater"
+		],
+		"requires": "|Float Boy| or |Level Unlock! Underwater|"
+	},
+	"Fast Underwater": {
+		"connects_to": [],
+		"requires": "|Float Boy| or |Level Unlock! Fast Underwater|"
+	},
+	"Flowers": {
+		"connects_to": [
+			"Fast Flowers",
+			"Ichigo Collect"
+		],
+		"requires": "|Ikebana Teacher| or |Level Unlock! Flowers|"
+	},
+	"Fast Flowers": {
+		"connects_to": [
+			"Ichigo Collect"
+		],
+		"requires": "|Ikebana Teacher| or |Level Unlock! Fast Flowers|"
+	},
+	"Ichigo Collect": {
+		"connects_to": [],
+		"requires": ""
+	},
+	"Cleaning": {
+		"connects_to": [],
+		"requires": "|Cleanly Mom| or |Level Unlock! Cleaning|"
+	},
+	"ALAP 2": {
+		"connects_to": [
+			"AFAP 2",
+			"Havana Collect",
+			"Second Group Unlock"
+		],
+		"requires": "|Lazybones| or |Level Unlock! ALAP 2|"
+	},
+	"AFAP 2": {
+		"connects_to": [
+			"Havana Collect"
+		],
+		"requires": "|Lazybones| or |Level Unlock! AFAP 2|"
+	},
+	"Havana Collect": {
+		"connects_to": [],
+		"requires": "|Lazybones| or |Level Unlock! AFAP 2| or |Starting with existing save|"
+	},
+	"Second Group Unlock": {
+		"connects_to": [
+			"ALAP 3",
+			"Sweets",
+			"Small Fire",
+			"School"
+		],
+		"requires": "|@Group 2:4|"
+	},
+	"Sweets": {
+		"connects_to": [
+			"Sweetsville"
+		],
+		"requires": "|Hansel & Gretel| or |Level Unlock! Sweets|"
+	},
+	"Sweetsville": {
+		"connects_to": [],
+		"requires": "|Hansel & Gretel| or |Level Unlock! Sweetsville|"
+	},
+	"Small Fire": {
+		"connects_to": [
+			"Medium Fire",
+			"Kinoko Collect"
+		],
+		"requires": "|Camper Man| or |Level Unlock! Small Fire|"
+	},
+	"Medium Fire": {
+		"connects_to": [
+			"Large Fire",
+			"Kinoko Collect"
+		],
+		"requires": "|Camper Man| or |Level Unlock! Medium Fire|"
+	},
+	"Large Fire": {
+		"connects_to": [
+			"Kinoko Collect"
+		],
+		"requires": "|Camper Man| or |Level Unlock! Large Fire|"
+	},
+	"Kinoko Collect": {
+		"connects_to": [],
+		"requires": ""
+	},
+	"School": {
+		"connects_to": [
+			"Students"
+		],
+		"requires": "|Substitute Teacher| or |Level Unlock! School|"
+	},
+	"Students": {
+		"connects_to": [],
+		"requires": "|Substitute Teacher| or |Level Unlock! Students|"
+	},
+	"ALAP 3": {
+		"connects_to": [
+			"AFAP 3",
+			"Twinkle Kuro Collect",
+			"Third Group Unlock"
+		],
+		"requires": "|Grandpa| or |Level Unlock! ALAP 3|"
+	},
+	"AFAP 3": {
+		"connects_to": [
+			"Twinkle Kuro Collect"
+		],
+		"requires": "|Grandpa| or |Level Unlock! AFAP 3|"
+	},
+	"Twinkle Kuro Collect": {
+		"connects_to": [],
+		"requires": "|Grandpa| or |Level Unlock! AFAP 3| or |Starting with existing save|"
+	},
+	"Third Group Unlock": {
+		"connects_to": [
+			"ALAP 4",
+			"Sumo 1",
+			"Cranes",
+			"Race",
+			"Fireflies",
+			"Snowman",
+			"Friends"
+		],
+		"requires": "|@Group 3:7|"
+	},
+	"Sumo 1": {
+		"connects_to": [
+			"Sumo 2",
+			"Nik Collect"
+		],
+		"requires": "|Mini-Sumo| or |Level Unlock! Sumo 1 (Komusubi)|"
+	},
+	"Sumo 2": {
+		"connects_to": [
+			"Sumo 3",
+			"Nik Collect"
+		],
+		"requires": "|Mini-Sumo| or |Level Unlock! Sumo 2 (Ozeki)|"
+	},
+	"Sumo 3": {
+		"connects_to": [
+			"Nik Collect"
+		],
+		"requires": "|Mini-Sumo| or |Level Unlock! Sumo 3 (Yokozuna)|"
+	},
+	"Nik Collect": {
+		"connects_to": [],
+		"requires": ""
+	},
+	"Cranes": {
+		"connects_to": [],
+		"requires": "(|Crane Hat Boy| or |Level Unlock! Cranes|) and (|Substitute Teacher| or |Level Unlock! School| or |Starting with existing save|)"
+	},
+	"Race": {
+		"connects_to": [
+			"Fast Race",
+			"Odeko Collect",
+			"Shy Nickel Collect"
+		],
+		"requires": "|F1 Racer| or |Level Unlock! Race|"
+	},
+	"Fast Race": {
+		"connects_to": [
+			"Odeko Collect",
+			"Shy Nickel Collect"
+		],
+		"requires": "|F1 Racer| or |Level Unlock! Fast Race|"
+	},
+	"Odeko Collect": {
+		"connects_to": [],
+		"requires": ""
+	},
+	"Shy Nickel Collect": {
+		"connects_to": [],
+		"requires": "|F1 Racer| or |Level Unlock! Fast Race| or |Starting with existing save|"
+	},
+	"Fireflies": {
+		"connects_to": [],
+		"requires": "(|Book Worm| or |Level Unlock! Fireflies|) and (|Camper Man| or |Level Unlock! Small Fire| or |Starting with existing save|)"
+	},
+	"Snowman": {
+		"connects_to": [],
+		"requires": "|Snow Child| or |Level Unlock! Snowman|"
+	},
+	"Friends": {
+		"connects_to": [
+			"Fast Friends"
+		],
+		"requires": "|Dr. Katamari| or |Level Unlock! Friends|"
+	},
+	"Fast Friends": {
+		"connects_to": [],
+		"requires": "|Dr. Katamari| or |Level Unlock! Fast Friends|"
+	},
+	"ALAP 4": {
+		"connects_to": [
+			"AFAP 4",
+			"Miki Velvet Collect",
+			"Fourth Group Unlock"
+		],
+		"requires": "|Grandma| or |Level Unlock! ALAP 4|"
+	},
+	"Miki Velvet Collect": {
+		"connects_to": [],
+		"requires": "|Grandma| or |Level Unlock! AFAP 4| or |Starting with existing save|"
+	},
+	"AFAP 4": {
+		"connects_to": [],
+		"requires": "|Grandma| or |Level Unlock! AFAP 4|"
+	},
+	"Fourth Group Unlock": {
+		"connects_to": [
+			"50 Items",
+			"Money",
+			"Cowbear",
+			"Fifth Group Unlock"
+		],
+		"requires": "|@Group 4:11| and |@Group Progression:4|"
+	},
+	"50 Items": {
+		"connects_to": [],
+		"requires": "(|Excited Baby| or |Level Unlock! 50 Items|) and (|Dr. Katamari| or |Level Unlock! Friends| or |Starting with existing save|)"
+	},
+	"Money": {
+		"connects_to": [],
+		"requires": "|Fund-raiser| or |Level Unlock! Money|"
+	},
+	"Cowbear": {
+		"connects_to": [],
+		"requires": "(|Cowbear Farmer| or |Level Unlock! Cowbear|) and (|F1 Racer| or |Level Unlock! Race| or |Starting with existing save|)"
+	},
+	"Fifth Group Unlock": {
+		"connects_to": [
+			"ALAP 5",
+			"Clouds",
+			"Small Just Right"
+		],
+		"requires": "|@Group 5:17|"
+	},
+	"Clouds": {
+		"connects_to": [],
+		"requires": "|Rain Coat Girl| or |Level Unlock! Clouds|"
+	},
+	"Small Just Right": {
+		"connects_to": [
+			"Medium Just Right"
+		],
+		"requires": "(|Just-right Girl| or |Level Unlock! Small Just Right|) and (|Substitute Teacher| or |Level Unlock! School| or |Starting with existing save|)"
+	},
+	"Medium Just Right": {
+		"connects_to": [
+			"Large Just Right"
+		],
+		"requires": "|Just-right Girl| or |Level Unlock! Medium Just Right|"
+	},
+	"Large Just Right": {
+		"connects_to": [],
+		"requires": "|Just-right Girl| or |Level Unlock! Large Just Right|"
+	},
+	"ALAP 5": {
+		"connects_to": [
+			"AFAP 5",
+			"Roll Up The Sun",
+			"Shikao Collect",
+			"Lucha Nutsuo Drooby Collect"
+		],
+		"requires": "|Bird & Elephant| or |Level Unlock! ALAP 5|"
+	},
+	"AFAP 5": {
+		"connects_to": [
+			"Shikao Collect",
+			"Lucha Nutsuo Drooby Collect"
+		],
+		"requires": "|Bird & Elephant| or |Level Unlock! AFAP 5|"
+	},
+	"Shikao Collect": {
+		"connects_to": [],
+		"requires": ""
+	},
+	"Lucha Nutsuo Drooby Collect": {
+		"connects_to": [],
+		"requires": "|Bird & Elephant| or |Level Unlock! AFAP 5| or |Starting with existing save|"
+	},
+	"Roll Up The Sun": {
+		"connects_to": [],
+		"requires": "(|Dog| or |Level Unlock! Roll Up The Sun|) and (|Starting with existing save| or |@Group 6:22|) and (|@Fans:23| or |Level Complete:32|)"
+	}
+}

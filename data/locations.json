@@ -1,0 +1,2209 @@
+[
+	{
+		"name": "Level Complete - Tutorial",
+		"region": "Tutorial",
+		"category": [
+			"1. Soccer Kid"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - Tutorial",
+		"region": "Tutorial",
+		"category": [
+			"1. Soccer Kid",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - ALAP 1",
+		"region": "ALAP 1",
+		"category": [
+			"2. Rainbow Girl"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - AFAP 1",
+		"region": "AFAP 1",
+		"category": [
+			"2. Rainbow Girl"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - ALAP 1 (30cm)",
+		"region": "ALAP 1",
+		"category": [
+			"2. Rainbow Girl",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - AFAP 1 (<0:55)",
+		"region": "AFAP 1",
+		"category": [
+			"2. Rainbow Girl",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "ALAP 2",
+		"name": "Level Complete - ALAP 2",
+		"category": [
+			"3. Lazybones"
+		],
+		"requires": []
+	},
+	{
+		"region": "AFAP 2",
+		"name": "Level Complete - AFAP 2",
+		"category": [
+			"3. Lazybones"
+		],
+		"requires": []
+	},
+	{
+		"region": "ALAP 2",
+		"name": "Super Clear - ALAP 2 (90cm)",
+		"category": [
+			"3. Lazybones",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "AFAP 2",
+		"name": "Super Clear - AFAP 2 (<0:55)",
+		"category": [
+			"3. Lazybones",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "Underwater",
+		"name": "Level Complete - Underwater",
+		"category": [
+			"3. Float Boy"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - Fast Underwater",
+		"region": "Fast Underwater",
+		"category": [
+			"3. Float Boy"
+		],
+		"requires": []
+	},
+	{
+		"region": "Underwater",
+		"name": "Super Clear - Underwater (2m)",
+		"category": [
+			"3. Float Boy",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - Fast Underwater (<1:00)",
+		"region": "Fast Underwater",
+		"category": [
+			"3. Float Boy",
+			"Super Clears",
+			"Difficult"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - Flowers",
+		"region": "Flowers",
+		"category": [
+			"3. Ikebana Teacher"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - Fast Flowers",
+		"region": "Fast Flowers",
+		"category": [
+			"3. Ikebana Teacher"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - Flowers (1111)",
+		"region": "Flowers",
+		"category": [
+			"3. Ikebana Teacher",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - Fast Flowers (<1:00)",
+		"region": "Fast Flowers",
+		"category": [
+			"3. Ikebana Teacher",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - Cleaning",
+		"region": "Cleaning",
+		"category": [
+			"3. Cleanly Mom"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - Cleaning (<1:00)",
+		"region": "Cleaning",
+		"category": [
+			"3. Cleanly Mom",
+			"Super Clears",
+			"Difficult"
+		],
+		"requires": []
+	},
+	{
+		"region": "Sweets",
+		"name": "Level Complete - Sweets",
+		"category": [
+			"4. Hansel & Gretel"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - Sweetsville",
+		"region": "Sweetsville",
+		"category": [
+			"4. Hansel & Gretel"
+		],
+		"requires": []
+	},
+	{
+		"region": "Sweets",
+		"name": "Super Clear - Sweets (1344)",
+		"category": [
+			"4. Hansel & Gretel",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - Sweetsville (1308)",
+		"region": "Sweetsville",
+		"category": [
+			"4. Hansel & Gretel",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "Small Fire",
+		"name": "Level Complete - Small Fire",
+		"category": [
+			"4. Camper Man"
+		],
+		"requires": []
+	},
+	{
+		"region": "Medium Fire",
+		"name": "Level Complete - Medium Fire",
+		"category": [
+			"4. Camper Man"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - Large Fire",
+		"region": "Large Fire",
+		"category": [
+			"4. Camper Man"
+		],
+		"requires": []
+	},
+	{
+		"region": "Small Fire",
+		"name": "Super Clear - Small Fire (3m)",
+		"category": [
+			"4. Camper Man",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "Medium Fire",
+		"name": "Super Clear - Medium Fire (4m20cm)",
+		"category": [
+			"4. Camper Man",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - Large Fire (7m40cm)",
+		"region": "Large Fire",
+		"category": [
+			"4. Camper Man",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "ALAP 3",
+		"name": "Level Complete - ALAP 3",
+		"category": [
+			"4. Grandpa"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - AFAP 3",
+		"region": "AFAP 3",
+		"category": [
+			"4. Grandpa"
+		],
+		"requires": []
+	},
+	{
+		"region": "ALAP 3",
+		"name": "Super Clear - ALAP 3 (5m)",
+		"category": [
+			"4. Grandpa",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - AFAP 3 (<0:55)",
+		"region": "AFAP 3",
+		"category": [
+			"4. Grandpa",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "School",
+		"name": "Level Complete - School",
+		"category": [
+			"4. Substitute Teacher"
+		],
+		"requires": []
+	},
+	{
+		"region": "Students",
+		"name": "Level Complete - Students",
+		"category": [
+			"4. Substitute Teacher"
+		],
+		"requires": []
+	},
+	{
+		"region": "School",
+		"name": "Super Clear - School (3m80cm)",
+		"category": [
+			"4. Substitute Teacher",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "Students",
+		"name": "Super Clear - Students (<1:30)",
+		"category": [
+			"4. Substitute Teacher",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "Sumo 1",
+		"name": "Level Complete - Sumo 1 (Komusubi)",
+		"category": [
+			"5. Mini-Sumo"
+		],
+		"requires": []
+	},
+	{
+		"region": "Sumo 2",
+		"name": "Level Complete - Sumo 2 (Ozeki)",
+		"category": [
+			"5. Mini-Sumo"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - Sumo 3 (Yokozuna)",
+		"region": "Sumo 3",
+		"category": [
+			"5. Mini-Sumo"
+		],
+		"requires": []
+	},
+	{
+		"region": "Sumo 1",
+		"name": "Super Clear - Sumo 1 (Komusubi) (157kg)",
+		"category": [
+			"5. Mini-Sumo",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "Sumo 2",
+		"name": "Super Clear - Sumo 2 (Ozeki) (241kg)",
+		"category": [
+			"5. Mini-Sumo",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - Sumo 3 (Yokozuna) (348kg)",
+		"region": "Sumo 3",
+		"category": [
+			"5. Mini-Sumo",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "Cranes",
+		"name": "Level Complete - Cranes",
+		"category": [
+			"5. Crane Hat Boy"
+		],
+		"requires": []
+	},
+	{
+		"region": "Cranes",
+		"name": "Super Clear - Cranes (1000)",
+		"category": [
+			"5. Crane Hat Boy",
+			"Super Clears",
+			"Difficult"
+		],
+		"requires": []
+	},
+	{
+		"region": "Race",
+		"name": "Level Complete - Race",
+		"category": [
+			"5. F1 Racer"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - Fast Race",
+		"region": "Fast Race",
+		"category": [
+			"5. F1 Racer"
+		],
+		"requires": []
+	},
+	{
+		"region": "Race",
+		"name": "Super Clear - Race (20m)",
+		"category": [
+			"5. F1 Racer",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - Fast Race (<1:00)",
+		"region": "Fast Race",
+		"category": [
+			"5. F1 Racer",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "ALAP 4",
+		"name": "Level Complete - ALAP 4",
+		"category": [
+			"5. Grandma"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - AFAP 4",
+		"region": "AFAP 4",
+		"category": [
+			"5. Grandma"
+		],
+		"requires": []
+	},
+	{
+		"region": "ALAP 4",
+		"name": "Super Clear - ALAP 4 (25m)",
+		"category": [
+			"5. Grandma",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - AFAP 4 (<0:55)",
+		"region": "AFAP 4",
+		"category": [
+			"5. Grandma",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "Fireflies",
+		"name": "Level Complete - Fireflies",
+		"category": [
+			"5. Book Worm"
+		],
+		"requires": []
+	},
+	{
+		"region": "Fireflies",
+		"name": "Super Clear - Fireflies (Dazzling)",
+		"category": [
+			"5. Book Worm",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "Snowman",
+		"name": "Level Complete - Snowman",
+		"category": [
+			"5. Snow Child"
+		],
+		"requires": []
+	},
+	{
+		"region": "Snowman",
+		"name": "Super Clear - Snowman",
+		"category": [
+			"5. Snow Child",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "Friends",
+		"name": "Level Complete - Friends",
+		"category": [
+			"5. Dr. Katamari"
+		],
+		"requires": []
+	},
+	{
+		"region": "Fast Friends",
+		"name": "Level Complete - Fast Friends",
+		"category": [
+			"5. Dr. Katamari"
+		],
+		"requires": []
+	},
+	{
+		"region": "Friends",
+		"name": "Super Clear - Friends (270)",
+		"category": [
+			"5. Dr. Katamari",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "Fast Friends",
+		"name": "Super Clear - Fast Friends (<0:50)",
+		"category": [
+			"5. Dr. Katamari",
+			"Super Clears",
+			"Difficult"
+		],
+		"requires": []
+	},
+	{
+		"region": "50 Items",
+		"name": "Level Complete - 50 items",
+		"category": [
+			"6. Excited Baby"
+		],
+		"requires": []
+	},
+	{
+		"region": "50 Items",
+		"name": "Super Clear - 50 items (5m50cm)",
+		"category": [
+			"6. Excited Baby",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "Money",
+		"name": "Level Complete - Money",
+		"category": [
+			"6. Fund-raiser"
+		],
+		"requires": []
+	},
+	{
+		"region": "Money",
+		"name": "Super Clear - Money ($100,000)",
+		"category": [
+			"6. Fund-raiser",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "Cowbear",
+		"name": "Level Complete - Cowbear",
+		"category": [
+			"6. Cowbear Farmer"
+		],
+		"requires": []
+	},
+	{
+		"region": "Cowbear",
+		"name": "Super Clear - Cowbear (Cowbear)",
+		"category": [
+			"6. Cowbear Farmer",
+			"Super Clears",
+			"Difficult"
+		],
+		"requires": []
+	},
+	{
+		"region": "Clouds",
+		"name": "Level Complete - Clouds",
+		"category": [
+			"7. Rain Coat Girl"
+		],
+		"requires": []
+	},
+	{
+		"region": "Clouds",
+		"name": "Super Clear - Clouds (475)",
+		"category": [
+			"7. Rain Coat Girl",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "ALAP 5",
+		"name": "Level Complete - ALAP 5",
+		"category": [
+			"7. Bird & Elephant"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - AFAP 5",
+		"region": "AFAP 5",
+		"category": [
+			"7. Bird & Elephant"
+		],
+		"requires": []
+	},
+	{
+		"region": "ALAP 5",
+		"name": "Super Clear - ALAP 5 (2500m)",
+		"category": [
+			"7. Bird & Elephant",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - AFAP 5 (<9:30)",
+		"region": "AFAP 5",
+		"category": [
+			"7. Bird & Elephant",
+			"Super Clears"
+		],
+		"requires": []
+	},
+	{
+		"region": "Small Just Right",
+		"name": "Level Complete - Small Just Right",
+		"category": [
+			"7. Just-right Girl"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - Medium Just Right",
+		"region": "Medium Just Right",
+		"category": [
+			"7. Just-right Girl"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - Large Just Right",
+		"region": "Large Just Right",
+		"category": [
+			"7. Just-right Girl"
+		],
+		"requires": []
+	},
+	{
+		"region": "Small Just Right",
+		"name": "Super Clear - Small Just Right (20cm)",
+		"category": [
+			"7. Just-right Girl",
+			"Super Clears",
+			"Difficult"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - Medium Just Right (2m)",
+		"region": "Medium Just Right",
+		"category": [
+			"7. Just-right Girl",
+			"Super Clears",
+			"Difficult"
+		],
+		"requires": []
+	},
+	{
+		"name": "Super Clear - Large Just Right (50m)",
+		"region": "Large Just Right",
+		"category": [
+			"7. Just-right Girl",
+			"Super Clears",
+			"Difficult"
+		],
+		"requires": []
+	},
+	{
+		"name": "Level Complete - Roll Up The Sun",
+		"region": "Roll Up The Sun",
+		"victory": true,
+		"category": [
+			"8. Dog"
+		],
+		"requires": []
+	},
+	{
+		"name": "Shooting Star - ALAP 1 (<1:20)",
+		"region": "ALAP 1",
+		"category": [
+			"2. Rainbow Girl"
+		],
+		"requires": []
+	},
+	{
+		"name": "Shooting Star - AFAP 1 (<1:20)",
+		"region": "AFAP 1",
+		"category": [
+			"2. Rainbow Girl"
+		],
+		"requires": []
+	},
+	{
+		"name": "Shooting Star - ALAP 2 (<4:00)",
+		"region": "ALAP 2",
+		"category": [
+			"3. Lazybones"
+		],
+		"requires": []
+	},
+	{
+		"name": "Shooting Star - AFAP 2 (<1:20)",
+		"region": "AFAP 2",
+		"category": [
+			"3. Lazybones"
+		],
+		"requires": []
+	},
+	{
+		"name": "Shooting Star - ALAP 3 (<7:00)",
+		"region": "ALAP 3",
+		"category": [
+			"4. Grandpa"
+		],
+		"requires": []
+	},
+	{
+		"name": "Shooting Star - AFAP 3 (<1:20)",
+		"region": "AFAP 3",
+		"category": [
+			"4. Grandpa"
+		],
+		"requires": []
+	},
+	{
+		"name": "Shooting Star - ALAP 4 (<10:00)",
+		"region": "ALAP 4",
+		"category": [
+			"5. Grandma"
+		],
+		"requires": []
+	},
+	{
+		"name": "Shooting Star - AFAP 4 (<1:20)",
+		"region": "AFAP 4",
+		"category": [
+			"5. Grandma"
+		],
+		"requires": []
+	},
+	{
+		"name": "Shooting Star - ALAP 5 (<13:00)",
+		"region": "ALAP 5",
+		"category": [
+			"7. Bird & Elephant"
+		],
+		"requires": []
+	},
+	{
+		"name": "Shooting Star - AFAP 5 (<13:00)",
+		"region": "AFAP 5",
+		"category": [
+			"7. Bird & Elephant"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Ace",
+		"region": "Tutorial",
+		"category": [
+			"1. Soccer Kid",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"region": "Tutorial",
+		"name": "Cousin - Slip",
+		"category": [
+			"1. Soccer Kid",
+			"Cousin Roll Ups"
+		],
+		"requires": "|Ace| or |Ace - Cousinsanity|"
+	},
+	{
+		"name": "Cousin - Macho",
+		"region": "Macho Collect",
+		"category": [
+			"2. Rainbow Girl",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - L'Amour",
+		"region": "Cleaning",
+		"category": [
+			"3. Cleanly Mom",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Ichigo",
+		"region": "Ichigo Collect",
+		"category": [
+			"3. Ikebana Teacher",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Marny",
+		"region": "Underwater",
+		"category": [
+			"3. Float Boy",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Can-Can",
+		"region": "ALAP 2",
+		"category": [
+			"3. Lazybones",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Havana",
+		"region": "Havana Collect",
+		"category": [
+			"3. Lazybones",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Kinoko",
+		"region": "Kinoko Collect",
+		"category": [
+			"4. Camper Man",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Honey",
+		"region": "Sweets",
+		"category": [
+			"4. Hansel & Gretel",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Miso",
+		"region": "School",
+		"category": [
+			"4. Substitute Teacher",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Huey",
+		"region": "Students",
+		"category": [
+			"4. Substitute Teacher",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Johnson",
+		"region": "ALAP 3",
+		"category": [
+			"4. Grandpa",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Twinkle",
+		"region": "Twinkle Kuro Collect",
+		"category": [
+			"4. Grandpa",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Kuro",
+		"region": "Twinkle Kuro Collect",
+		"category": [
+			"4. Grandpa",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Dipp",
+		"region": "Fireflies",
+		"category": [
+			"5. Book Worm",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Lalala",
+		"region": "Snowman",
+		"category": [
+			"5. Snow Child",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Foomin",
+		"region": "ALAP 4",
+		"category": [
+			"5. Grandma",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Miki",
+		"region": "Miki Velvet Collect",
+		"category": [
+			"5. Grandma",
+			"Cousin Roll Ups",
+			"Long"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Velvet",
+		"region": "Miki Velvet Collect",
+		"category": [
+			"5. Grandma",
+			"Cousin Roll Ups",
+			"Long"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Odeon",
+		"region": "Money",
+		"category": [
+			"6. Fund-raiser",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Nik",
+		"region": "Nik Collect",
+		"category": [
+			"5. Mini-Sumo",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Beyond",
+		"region": "Friends",
+		"category": [
+			"5. Dr. Katamari",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Njamo",
+		"region": "Fast Friends",
+		"category": [
+			"5. Dr. Katamari",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Odeko",
+		"region": "Odeko Collect",
+		"category": [
+			"5. F1 Racer",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Shy",
+		"region": "Shy Nickel Collect",
+		"category": [
+			"5. F1 Racer",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Nickel",
+		"region": "Shy Nickel Collect",
+		"category": [
+			"5. F1 Racer",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Opeo",
+		"region": "Cranes",
+		"category": [
+			"5. Crane Hat Boy",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - June",
+		"region": "Clouds",
+		"category": [
+			"7. Rain Coat Girl",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Fujio",
+		"region": "Clouds",
+		"category": [
+			"7. Rain Coat Girl",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Jungle",
+		"region": "50 Items",
+		"category": [
+			"6. Excited Baby",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Daisy",
+		"region": "Cowbear",
+		"category": [
+			"6. Cowbear Farmer",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Marcy",
+		"region": "Small Just Right",
+		"category": [
+			"7. Just-right Girl",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Peso",
+		"region": "Medium Just Right",
+		"category": [
+			"7. Just-right Girl",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Signolo",
+		"region": "Large Just Right",
+		"category": [
+			"7. Just-right Girl",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Shikao",
+		"region": "Shikao Collect",
+		"category": [
+			"7. Bird & Elephant",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Lucha",
+		"region": "Lucha Nutsuo Drooby Collect",
+		"category": [
+			"7. Bird & Elephant",
+			"Cousin Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Nutsuo",
+		"region": "Lucha Nutsuo Drooby Collect",
+		"category": [
+			"7. Bird & Elephant",
+			"Cousin Roll Ups",
+			"Long"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousin - Drooby",
+		"region": "Lucha Nutsuo Drooby Collect",
+		"category": [
+			"7. Bird & Elephant",
+			"Cousin Roll Ups",
+			"Long"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousinsanity - Roll as The Prince",
+		"region": "Tutorial",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": []
+	},
+	{
+		"name": "Cousinsanity - Roll as Ace",
+		"region": "Tutorial",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Ace - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Slip",
+		"region": "Tutorial",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Slip - Cousinsanity| and (|Starting with existing save| or |Ace - Cousinsanity|)"
+	},
+	{
+		"name": "Cousinsanity - Roll as Macho",
+		"region": "Macho Collect",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Macho - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as L'Amour",
+		"region": "Cleaning",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|L'Amour - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Ichigo",
+		"region": "Ichigo Collect",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Ichigo - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Marny",
+		"region": "Underwater",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Marny - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Can-Can",
+		"region": "ALAP 2",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Can-Can - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Havana",
+		"region": "Havana Collect",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Havana - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Kinoko",
+		"region": "Kinoko Collect",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Kinoko - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Honey",
+		"region": "Sweets",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Honey - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Miso",
+		"region": "School",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Miso - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Huey",
+		"region": "Students",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Huey - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Johnson",
+		"region": "ALAP 3",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Johnson - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Twinkle",
+		"region": "Twinkle Kuro Collect",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Twinkle - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Kuro",
+		"region": "Twinkle Kuro Collect",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Kuro - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Dipp",
+		"region": "Fireflies",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Dipp - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Lalala",
+		"region": "Snowman",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Lalala - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Foomin",
+		"region": "ALAP 4",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Foomin - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Miki",
+		"region": "Miki Velvet Collect",
+		"category": [
+			"Cousinsanity",
+			"Long"
+		],
+		"requires": "|Miki - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Velvet",
+		"region": "Miki Velvet Collect",
+		"category": [
+			"Cousinsanity",
+			"Long"
+		],
+		"requires": "|Velvet - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Odeon",
+		"region": "Money",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Odeon - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Nik",
+		"region": "Nik Collect",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Nik - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Beyond",
+		"region": "Friends",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Beyond - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Njamo",
+		"region": "Fast Friends",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Njamo - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Odeko",
+		"region": "Odeko Collect",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Odeko - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Shy",
+		"region": "Shy Nickel Collect",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Shy - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Nickel",
+		"region": "Shy Nickel Collect",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Nickel - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Opeo",
+		"region": "Cranes",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Opeo - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as June",
+		"region": "Clouds",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|June - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Fujio",
+		"region": "Clouds",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Fujio - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Jungle",
+		"region": "50 Items",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Jungle - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Daisy",
+		"region": "Cowbear",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Daisy - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Marcy",
+		"region": "Small Just Right",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Marcy - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Peso",
+		"region": "Medium Just Right",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Peso - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Signolo",
+		"region": "Large Just Right",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Signolo - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Shikao",
+		"region": "Shikao Collect",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Shikao - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Lucha",
+		"region": "Lucha Nutsuo Drooby Collect",
+		"category": [
+			"Cousinsanity"
+		],
+		"requires": "|Lucha - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Nutsuo",
+		"region": "Lucha Nutsuo Drooby Collect",
+		"category": [
+			"Cousinsanity",
+			"Long"
+		],
+		"requires": "|Nutsuo - Cousinsanity|"
+	},
+	{
+		"name": "Cousinsanity - Roll as Drooby",
+		"region": "Lucha Nutsuo Drooby Collect",
+		"category": [
+			"Cousinsanity",
+			"Long"
+		],
+		"requires": "|Drooby - Cousinsanity|"
+	},
+	{
+		"name": "Present - Headphones",
+		"region": "ALAP 1",
+		"category": [
+			"2. Rainbow Girl",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Antenna",
+		"region": "Cleaning",
+		"category": [
+			"3. Cleanly Mom",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Flower",
+		"region": "Flowers",
+		"category": [
+			"3. Ikebana Teacher",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Bikini",
+		"region": "Underwater",
+		"category": [
+			"3. Float Boy",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Camera",
+		"region": "ALAP 2",
+		"category": [
+			"3. Lazybones",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Mushroom",
+		"region": "Small Fire",
+		"category": [
+			"4. Camper Man",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Long Nose",
+		"region": "Sweets",
+		"category": [
+			"4. Hansel & Gretel",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Ribbons",
+		"region": "School",
+		"category": [
+			"4. Substitute Teacher",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Crown",
+		"region": "ALAP 3",
+		"category": [
+			"4. Grandpa",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Glasses",
+		"region": "Fireflies",
+		"category": [
+			"5. Book Worm",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Royal Mask",
+		"region": "Snowman",
+		"category": [
+			"5. Snow Child",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Little Buddy",
+		"region": "ALAP 4",
+		"category": [
+			"5. Grandma",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Wig",
+		"region": "Money",
+		"category": [
+			"6. Fund-raiser",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Cool Belt",
+		"region": "Sumo 1",
+		"category": [
+			"5. Mini-Sumo",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Giraffe Hat",
+		"region": "Friends",
+		"category": [
+			"5. Dr. Katamari",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Horsey",
+		"region": "Race",
+		"category": [
+			"5. F1 Racer",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Pochette",
+		"region": "Cranes",
+		"category": [
+			"5. Crane Hat Boy",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Trumpet",
+		"region": "Clouds",
+		"category": [
+			"7. Rain Coat Girl",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Peacock Feathers",
+		"region": "50 Items",
+		"category": [
+			"6. Excited Baby",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Moustache",
+		"region": "Cowbear",
+		"category": [
+			"6. Cowbear Farmer",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Scarf",
+		"region": "Small Just Right",
+		"category": [
+			"7. Just-right Girl",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Guitar",
+		"region": "Medium Just Right",
+		"category": [
+			"7. Just-right Girl",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Mask",
+		"region": "Large Just Right",
+		"category": [
+			"7. Just-right Girl",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Present - Mt. Fuji",
+		"region": "ALAP 5",
+		"category": [
+			"7. Bird & Elephant",
+			"New File",
+			"Present Roll Ups"
+		],
+		"requires": []
+	},
+	{
+		"name": "Presentsanity - Roll with Headphones",
+		"region": "ALAP 1",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Headphones - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Antenna",
+		"region": "Cleaning",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Antenna - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Flower",
+		"region": "Flowers",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Flower - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Bikini",
+		"region": "Underwater",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Bikini - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Camera",
+		"region": "ALAP 2",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Camera - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Mushroom",
+		"region": "Small Fire",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Mushroom - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Long Nose",
+		"region": "Sweets",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Long Nose - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Ribbons",
+		"region": "School",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Ribbons - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Crown",
+		"region": "ALAP 3",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Crown - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Glasses",
+		"region": "Fireflies",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Glasses - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Royal Mask",
+		"region": "Snowman",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Royal Mask - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Little Buddy",
+		"region": "ALAP 4",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Little Buddy - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Wig",
+		"region": "Money",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Wig - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Cool Belt",
+		"region": "Sumo 1",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Cool Belt - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Giraffe Hat",
+		"region": "Friends",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Giraffe Hat - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Horsey",
+		"region": "Race",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Horsey - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Pochette",
+		"region": "Cranes",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Pochette - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Trumpet",
+		"region": "Clouds",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Trumpet - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Peacock Feathers",
+		"region": "50 Items",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Peacock Feathers - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Moustache",
+		"region": "Cowbear",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Moustache - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Scarf",
+		"region": "Small Just Right",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Scarf - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Guitar",
+		"region": "Medium Just Right",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Guitar - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Mask",
+		"region": "Large Just Right",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Mask - Presentsanity|"
+	},
+	{
+		"name": "Presentsanity - Roll with Mt. Fuji",
+		"region": "ALAP 5",
+		"category": [
+			"Presentsanity"
+		],
+		"requires": "|Mt. Fuji - Presentsanity|"
+	},
+	{
+		"name": "1 Level Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"]
+	},
+	{
+		"name": "2 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:1|"
+	},
+	{
+		"name": "3 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:2|"
+	},
+	{
+		"name": "4 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:3|"
+	},
+	{
+		"name": "5 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:4|"
+	},
+	{
+		"name": "6 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:5|"
+	},
+	{
+		"name": "7 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:6|"
+	},
+	{
+		"name": "8 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:7|"
+	},
+	{
+		"name": "9 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:8|"
+	},
+	{
+		"name": "10 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:9|"
+	},
+	{
+		"name": "11 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:10|"
+	},
+	{
+		"name": "12 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:11|"
+	},
+	{
+		"name": "13 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:12|"
+	},
+	{
+		"name": "14 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:13|"
+	},
+	{
+		"name": "15 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:14|"
+	},
+	{
+		"name": "16 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:15|"
+	},
+	{
+		"name": "17 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:16|"
+	},
+	{
+		"name": "18 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:17|"
+	},
+	{
+		"name": "19 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:18|"
+	},
+	{
+		"name": "20 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:19|"
+	},
+	{
+		"name": "21 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:20|"
+	},
+	{
+		"name": "22 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:21|"
+	},
+	{
+		"name": "23 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:22|"
+	},
+	{
+		"name": "24 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:23|"
+	},
+	{
+		"name": "25 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:24|"
+	},
+	{
+		"name": "26 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:25|"
+	},
+	{
+		"name": "27 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:26|"
+	},
+	{
+		"name": "28 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:27|"
+	},
+	{
+		"name": "29 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:28|"
+	},
+	{
+		"name": "30 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:29|"
+	},
+	{
+		"name": "31 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:30|"
+	},
+	{
+		"name": "32 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:31|"
+	},
+	{
+		"name": "33 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:32|"
+	},
+	{
+		"name": "34 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:33|"
+	},
+	{
+		"name": "35 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:34|"
+	},
+	{
+		"name": "36 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:35|"
+	},
+	{
+		"name": "37 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:36|"
+	},
+	{
+		"name": "38 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:37|"
+	},
+	{
+		"name": "39 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:38|"
+	},
+	{
+		"name": "40 Levels Completed",
+		"category": [
+			"Levels Completed"
+		],
+		"place_item": ["Level Complete"],
+		"requires": "|@Levels:39|"
+	}
+]

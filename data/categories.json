@@ -1,0 +1,78 @@
+{
+	"Level Unlock Mode": {
+		"yaml_option": ["level_unlock_mode"],
+		"hidden": true
+	},
+	"Fans": {
+		"yaml_option": ["!level_unlock_mode"]
+	},
+	"New File": {
+		"yaml_option": ["start_with_new_file"],
+		"hidden": true
+	},
+	"Existing File": {
+		"yaml_option": ["!start_with_new_file"],
+		"hidden": true
+	},
+	"Cousinsanity": {
+		"yaml_option": ["cousinsanity"]
+	},
+	"Cousin Roll Ups": {
+		"hidden": true
+	},
+	"Present Roll Ups": {
+		"hidden": true
+	},
+	"Super Clears": {
+		"hidden": true
+	},
+	"Presentsanity": {
+		"yaml_option": ["presentsanity"]
+	},
+	"Cousinsanity Disabled": {
+		"yaml_option": ["!cousinsanity"],
+		"hidden": true
+	},
+	"Presentsanity Disabled": {
+		"yaml_option": ["!presentsanity"],
+		"hidden": true
+	},
+	"Levels Completed": {
+		"yaml_option": ["level_unlock_mode"]
+	},
+	"Long": {
+		"yaml_option": ["enable_long_checks"],
+		"hidden": true
+	},
+	"Difficult": {
+		"yaml_option": ["enable_difficult_checks"],
+		"hidden": true
+	},
+	"Group 0": {
+		"hidden": true
+	},
+	"Group 1": {
+		"hidden": true
+	},
+	"Group 2": {
+		"hidden": true
+	},
+	"Group 3": {
+		"hidden": true
+	},
+	"Group 4": {
+		"hidden": true
+	},
+	"Group 5": {
+		"hidden": true
+	},
+	"Group 6": {
+		"hidden": true
+	},
+	"Group 7": {
+		"hidden": true
+	},
+	"Group Progression": {
+		"hidden": true
+	}
+}
