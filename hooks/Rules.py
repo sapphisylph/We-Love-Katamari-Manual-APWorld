@@ -2,7 +2,6 @@ from typing import Optional
 from worlds.AutoWorld import World
 from ..Helpers import clamp, get_items_with_value
 from BaseClasses import MultiWorld, CollectionState
-
 import re
 
 # Sometimes you have a requirement that is just too messy or repetitive to write out with boolean logic.
@@ -27,3 +26,20 @@ def anyClassLevel(state: CollectionState, player: int, level: str):
 def requiresMelee():
     """Returns a requires string that checks if the player has unlocked the tank."""
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
+
+def groupTwoUnlock(world: World, state: CollectionState, player: int):
+    return state.count_from_list_unique(list(world.item_name_groups["Group 2"]), player) >= 4
+
+def groupThreeUnlock(world: World, state: CollectionState, player: int):
+    return state.count_from_list_unique(list(world.item_name_groups["Group 3"]), player) >= 7
+
+def groupFourUnlock(world: World, state: CollectionState, player: int):
+    if state.count_from_list_unique(list(world.item_name_groups["Group 4"]), player) >= 11 and state.count_from_list_unique(list(world.item_name_groups["Group Progression"]), player) >= 4:
+        return True
+    return False
+
+def groupFiveUnlock(world: World, state: CollectionState, player: int):
+    return state.count_from_list_unique(list(world.item_name_groups["Group 5"]), player) >= 17
+
+def groupSixUnlock(world: World, state: CollectionState, player: int):
+    return state.count_from_list_unique(list(world.item_name_groups["Group 6"]), player) >= 22
