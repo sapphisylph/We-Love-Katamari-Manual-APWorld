@@ -61,13 +61,13 @@
 			"Flowers",
 			"Macho Collect"
 		],
-		"requires": "|Rainbow Girl| or |Level Unlock! ALAP 1|"
+		"requires": "|Rainbow Girl| or |Level Unlock! ALAP 1| or |Progressive Rainbow Girl|"
 	},
 	"AFAP 1": {
 		"connects_to": [
 			"Macho Collect"
 		],
-		"requires": "|Rainbow Girl| or |Level Unlock! AFAP 1|"
+		"requires": "|Rainbow Girl| or |Level Unlock! AFAP 1| or |Progressive Rainbow Girl:2|"
 	},
 	"Macho Collect": {
 		"connects_to": [],
@@ -77,24 +77,24 @@
 		"connects_to": [
 			"Fast Underwater"
 		],
-		"requires": "|Float Boy| or |Level Unlock! Underwater|"
+		"requires": "|Float Boy| or |Level Unlock! Underwater| or |Progressive Float Boy|"
 	},
 	"Fast Underwater": {
 		"connects_to": [],
-		"requires": "|Float Boy| or |Level Unlock! Fast Underwater|"
+		"requires": "|Float Boy| or |Level Unlock! Fast Underwater| or |Progressive Float Boy:2|"
 	},
 	"Flowers": {
 		"connects_to": [
 			"Fast Flowers",
 			"Ichigo Collect"
 		],
-		"requires": "|Ikebana Teacher| or |Level Unlock! Flowers|"
+		"requires": "|Ikebana Teacher| or |Level Unlock! Flowers| or |Progressive Ikebana Teacher|"
 	},
 	"Fast Flowers": {
 		"connects_to": [
 			"Ichigo Collect"
 		],
-		"requires": "|Ikebana Teacher| or |Level Unlock! Fast Flowers|"
+		"requires": "|Ikebana Teacher| or |Level Unlock! Fast Flowers| or |Progressive Ikebana Teacher:2|"
 	},
 	"Ichigo Collect": {
 		"connects_to": [],
@@ -102,7 +102,7 @@
 	},
 	"Cleaning": {
 		"connects_to": [],
-		"requires": "|Cleanly Mom| or |Level Unlock! Cleaning|"
+		"requires": "|Cleanly Mom| or |Level Unlock! Cleaning| or |Progressive Cleanly Mom|"
 	},
 	"ALAP 2": {
 		"connects_to": [
@@ -110,17 +110,17 @@
 			"Havana Collect",
 			"Second Group Unlock"
 		],
-		"requires": "|Lazybones| or |Level Unlock! ALAP 2|"
+		"requires": "|Lazybones| or |Level Unlock! ALAP 2| or |Progressive Lazybones|"
 	},
 	"AFAP 2": {
 		"connects_to": [
 			"Havana Collect"
 		],
-		"requires": "|Lazybones| or |Level Unlock! AFAP 2|"
+		"requires": "|Lazybones| or |Level Unlock! AFAP 2| or |Progressive Lazybones:2|"
 	},
 	"Havana Collect": {
 		"connects_to": [],
-		"requires": "|Lazybones| or |Level Unlock! AFAP 2| or |Starting with existing save|"
+		"requires": "|Lazybones| or |Level Unlock! AFAP 2|  or |Progressive Lazybones:2| or |Starting with existing save|"
 	},
 	"Second Group Unlock": {
 		"connects_to": [
@@ -129,37 +129,37 @@
 			"Small Fire",
 			"School"
 		],
-		"requires": "|@Group 2:4|"
+		"requires": "{groupTwoUnlock()}"
 	},
 	"Sweets": {
 		"connects_to": [
 			"Sweetsville"
 		],
-		"requires": "|Hansel & Gretel| or |Level Unlock! Sweets|"
+		"requires": "|Hansel & Gretel| or |Level Unlock! Sweets| or |Progressive Hansel & Gretel|"
 	},
 	"Sweetsville": {
 		"connects_to": [],
-		"requires": "|Hansel & Gretel| or |Level Unlock! Sweetsville|"
+		"requires": "|Hansel & Gretel| or |Level Unlock! Sweetsville| or |Progressive Hansel & Gretel:2|"
 	},
 	"Small Fire": {
 		"connects_to": [
 			"Medium Fire",
 			"Kinoko Collect"
 		],
-		"requires": "|Camper Man| or |Level Unlock! Small Fire|"
+		"requires": "|Camper Man| or |Level Unlock! Small Fire| or |Progressive Camper Man|"
 	},
 	"Medium Fire": {
 		"connects_to": [
 			"Large Fire",
 			"Kinoko Collect"
 		],
-		"requires": "|Camper Man| or |Level Unlock! Medium Fire|"
+		"requires": "|Camper Man| or |Level Unlock! Medium Fire| or |Progressive Camper Man:2|"
 	},
 	"Large Fire": {
 		"connects_to": [
 			"Kinoko Collect"
 		],
-		"requires": "|Camper Man| or |Level Unlock! Large Fire|"
+		"requires": "|Camper Man| or |Level Unlock! Large Fire| or |Progressive Camper Man:3|"
 	},
 	"Kinoko Collect": {
 		"connects_to": [],
@@ -169,11 +169,11 @@
 		"connects_to": [
 			"Students"
 		],
-		"requires": "|Substitute Teacher| or |Level Unlock! School|"
+		"requires": "|Substitute Teacher| or |Level Unlock! School| or |Progressive Substitute Teacher|"
 	},
 	"Students": {
 		"connects_to": [],
-		"requires": "|Substitute Teacher| or |Level Unlock! Students|"
+		"requires": "|Substitute Teacher| or |Level Unlock! Students| or |Progressive Substitute Teacher:2|"
 	},
 	"ALAP 3": {
 		"connects_to": [
@@ -181,17 +181,17 @@
 			"Twinkle Kuro Collect",
 			"Third Group Unlock"
 		],
-		"requires": "|Grandpa| or |Level Unlock! ALAP 3|"
+		"requires": "|Grandpa| or |Level Unlock! ALAP 3| or |Progressive Grandpa|"
 	},
 	"AFAP 3": {
 		"connects_to": [
 			"Twinkle Kuro Collect"
 		],
-		"requires": "|Grandpa| or |Level Unlock! AFAP 3|"
+		"requires": "|Grandpa| or |Level Unlock! AFAP 3| or |Progressive Grandpa:2|"
 	},
 	"Twinkle Kuro Collect": {
 		"connects_to": [],
-		"requires": "|Grandpa| or |Level Unlock! AFAP 3| or |Starting with existing save|"
+		"requires": "|Grandpa| or |Level Unlock! AFAP 3|  or |Progressive Grandpa:2| or |Starting with existing save|"
 	},
 	"Third Group Unlock": {
 		"connects_to": [
@@ -203,27 +203,27 @@
 			"Snowman",
 			"Friends"
 		],
-		"requires": "|@Group 3:7|"
+		"requires": "{groupThreeUnlock()}"
 	},
 	"Sumo 1": {
 		"connects_to": [
 			"Sumo 2",
 			"Nik Collect"
 		],
-		"requires": "|Mini-Sumo| or |Level Unlock! Sumo 1 (Komusubi)|"
+		"requires": "|Mini-Sumo| or |Level Unlock! Sumo 1 (Komusubi)| or |Progressive Mini-Sumo|"
 	},
 	"Sumo 2": {
 		"connects_to": [
 			"Sumo 3",
 			"Nik Collect"
 		],
-		"requires": "|Mini-Sumo| or |Level Unlock! Sumo 2 (Ozeki)|"
+		"requires": "|Mini-Sumo| or |Level Unlock! Sumo 2 (Ozeki)| or |Progressive Mini-Sumo:2|"
 	},
 	"Sumo 3": {
 		"connects_to": [
 			"Nik Collect"
 		],
-		"requires": "|Mini-Sumo| or |Level Unlock! Sumo 3 (Yokozuna)|"
+		"requires": "|Mini-Sumo| or |Level Unlock! Sumo 3 (Yokozuna)| or |Progressive Mini-Sumo:3|"
 	},
 	"Nik Collect": {
 		"connects_to": [],
@@ -231,7 +231,7 @@
 	},
 	"Cranes": {
 		"connects_to": [],
-		"requires": "(|Crane Hat Boy| or |Level Unlock! Cranes|) and (|Substitute Teacher| or |Level Unlock! School| or |Starting with existing save|)"
+		"requires": "(|Crane Hat Boy| or |Level Unlock! Cranes| or |Progressive Crane Hat Boy|) and (|Substitute Teacher| or |Level Unlock! School| or |Progressive Substitute Teacher| or |Starting with existing save|)"
 	},
 	"Race": {
 		"connects_to": [
@@ -239,14 +239,14 @@
 			"Odeko Collect",
 			"Shy Nickel Collect"
 		],
-		"requires": "|F1 Racer| or |Level Unlock! Race|"
+		"requires": "|F1 Racer| or |Level Unlock! Race| or |Progressive F1 Racer|"
 	},
 	"Fast Race": {
 		"connects_to": [
 			"Odeko Collect",
 			"Shy Nickel Collect"
 		],
-		"requires": "|F1 Racer| or |Level Unlock! Fast Race|"
+		"requires": "|F1 Racer| or |Level Unlock! Fast Race| or |Progressive F1 Racer:2|"
 	},
 	"Odeko Collect": {
 		"connects_to": [],
@@ -254,25 +254,25 @@
 	},
 	"Shy Nickel Collect": {
 		"connects_to": [],
-		"requires": "|F1 Racer| or |Level Unlock! Fast Race| or |Starting with existing save|"
+		"requires": "|F1 Racer| or |Level Unlock! Fast Race| or |Progressive F1 Racer:2| or |Starting with existing save|"
 	},
 	"Fireflies": {
 		"connects_to": [],
-		"requires": "(|Book Worm| or |Level Unlock! Fireflies|) and (|Camper Man| or |Level Unlock! Small Fire| or |Starting with existing save|)"
+		"requires": "(|Book Worm| or |Level Unlock! Fireflies| or |Progressive Book Worm|) and (|Camper Man| or |Level Unlock! Small Fire| or |Progressive Camper Man| or |Starting with existing save|)"
 	},
 	"Snowman": {
 		"connects_to": [],
-		"requires": "|Snow Child| or |Level Unlock! Snowman|"
+		"requires": "|Snow Child| or |Level Unlock! Snowman| or |Progressive Snow Child|"
 	},
 	"Friends": {
 		"connects_to": [
 			"Fast Friends"
 		],
-		"requires": "|Dr. Katamari| or |Level Unlock! Friends|"
+		"requires": "|Dr. Katamari| or |Level Unlock! Friends| or |Progressive Dr. Katamari|"
 	},
 	"Fast Friends": {
 		"connects_to": [],
-		"requires": "|Dr. Katamari| or |Level Unlock! Fast Friends|"
+		"requires": "|Dr. Katamari| or |Level Unlock! Fast Friends| or |Progressive Dr. Katamari:2|"
 	},
 	"ALAP 4": {
 		"connects_to": [
@@ -280,15 +280,15 @@
 			"Miki Velvet Collect",
 			"Fourth Group Unlock"
 		],
-		"requires": "|Grandma| or |Level Unlock! ALAP 4|"
+		"requires": "|Grandma| or |Level Unlock! ALAP 4| or |Progressive Grandma|"
 	},
 	"Miki Velvet Collect": {
 		"connects_to": [],
-		"requires": "|Grandma| or |Level Unlock! AFAP 4| or |Starting with existing save|"
+		"requires": "|Grandma| or |Level Unlock! AFAP 4| or |Progressive Grandma:2| or |Starting with existing save|"
 	},
 	"AFAP 4": {
 		"connects_to": [],
-		"requires": "|Grandma| or |Level Unlock! AFAP 4|"
+		"requires": "|Grandma| or |Level Unlock! AFAP 4| or |Progressive Grandma:2|"
 	},
 	"Fourth Group Unlock": {
 		"connects_to": [
@@ -297,19 +297,19 @@
 			"Cowbear",
 			"Fifth Group Unlock"
 		],
-		"requires": "|@Group 4:11| and |@Group Progression:4|"
+		"requires": "{groupFourUnlock()}"
 	},
 	"50 Items": {
 		"connects_to": [],
-		"requires": "(|Excited Baby| or |Level Unlock! 50 Items|) and (|Dr. Katamari| or |Level Unlock! Friends| or |Starting with existing save|)"
+		"requires": "(|Excited Baby| or |Level Unlock! 50 Items| or |Progressive Excited Baby|) and (|Dr. Katamari| or |Level Unlock! Friends| or |Progressive Dr. Katamari| or |Starting with existing save|)"
 	},
 	"Money": {
 		"connects_to": [],
-		"requires": "|Fund-raiser| or |Level Unlock! Money|"
+		"requires": "|Fund-raiser| or |Level Unlock! Money| or |Progressive Fund-raiser|"
 	},
 	"Cowbear": {
 		"connects_to": [],
-		"requires": "(|Cowbear Farmer| or |Level Unlock! Cowbear|) and (|F1 Racer| or |Level Unlock! Race| or |Starting with existing save|)"
+		"requires": "(|Cowbear Farmer| or |Level Unlock! Cowbear| or |Progressive Cowbear Farmer|) and (|F1 Racer| or |Level Unlock! Race| or |Progressive F1 Racer| or |Starting with existing save|)"
 	},
 	"Fifth Group Unlock": {
 		"connects_to": [
@@ -317,43 +317,43 @@
 			"Clouds",
 			"Small Just Right"
 		],
-		"requires": "|@Group 5:17|"
+		"requires": "{groupFiveUnlock()}"
 	},
 	"Clouds": {
 		"connects_to": [],
-		"requires": "|Rain Coat Girl| or |Level Unlock! Clouds|"
+		"requires": "|Rain Coat Girl| or |Level Unlock! Clouds| or |Progressive Rain Coat Girl|"
 	},
 	"Small Just Right": {
 		"connects_to": [
 			"Medium Just Right"
 		],
-		"requires": "(|Just-right Girl| or |Level Unlock! Small Just Right|) and (|Substitute Teacher| or |Level Unlock! School| or |Starting with existing save|)"
+		"requires": "(|Just-right Girl| or |Level Unlock! Small Just Right| or |Progressive Just-right Girl|) and (|Substitute Teacher| or |Level Unlock! School| or |Progressive Substitute Teacher| or |Starting with existing save|)"
 	},
 	"Medium Just Right": {
 		"connects_to": [
 			"Large Just Right"
 		],
-		"requires": "|Just-right Girl| or |Level Unlock! Medium Just Right|"
+		"requires": "|Just-right Girl| or |Level Unlock! Medium Just Right| or |Progressive Just-right Girl:2|"
 	},
 	"Large Just Right": {
 		"connects_to": [],
-		"requires": "|Just-right Girl| or |Level Unlock! Large Just Right|"
+		"requires": "|Just-right Girl| or |Level Unlock! Large Just Right| or |Progressive Just-right Girl:3|"
 	},
 	"ALAP 5": {
 		"connects_to": [
 			"AFAP 5",
-			"Roll Up The Sun",
+			"Sixth Group Unlock",
 			"Shikao Collect",
 			"Lucha Nutsuo Drooby Collect"
 		],
-		"requires": "|Bird & Elephant| or |Level Unlock! ALAP 5|"
+		"requires": "|Bird & Elephant| or |Level Unlock! ALAP 5| or |Progressive Bird & Elephant|"
 	},
 	"AFAP 5": {
 		"connects_to": [
 			"Shikao Collect",
 			"Lucha Nutsuo Drooby Collect"
 		],
-		"requires": "|Bird & Elephant| or |Level Unlock! AFAP 5|"
+		"requires": "|Bird & Elephant| or |Level Unlock! AFAP 5| or |Progressive Bird & Elephant:2|"
 	},
 	"Shikao Collect": {
 		"connects_to": [],
@@ -361,10 +361,17 @@
 	},
 	"Lucha Nutsuo Drooby Collect": {
 		"connects_to": [],
-		"requires": "|Bird & Elephant| or |Level Unlock! AFAP 5| or |Starting with existing save|"
+		"requires": "|Bird & Elephant| or |Level Unlock! AFAP 5| or |Progressive Bird & Elephant:2| or |Starting with existing save|"
 	},
+	"Sixth Group Unlock": {
+		"connects_to": [
+			"Roll Up The Sun"
+		],
+		"requires": "{groupSixUnlock()}"
+	},
+	
 	"Roll Up The Sun": {
 		"connects_to": [],
-		"requires": "(|Dog| or |Level Unlock! Roll Up The Sun|) and (|Starting with existing save| or |@Group 6:22|) and (|@Fans:23| or |Level Complete:32|)"
+		"requires": "(|Dog| or |Level Unlock! Roll Up The Sun| or |Progressive Dog|) and (|@Fans:24| or |Level Complete:32|)"
 	}
 }
