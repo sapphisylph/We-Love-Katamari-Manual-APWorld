@@ -1775,9 +1775,293 @@
     "count": 1,
     "name": "Level Unlock! Roll Up The Sun",
     "category": [
-      "Final Level",
+	  "Levels",
       "Level Unlock Mode",
       "Group 7"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Rainbow Girl",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 1",
+      "Group 2",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Lazybones",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 2",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Float Boy",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 2",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Ikebana Teacher",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 2",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive Cleanly Mom",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 2",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Hansel & Gretel",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Progressive Camper Man",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Group Progression"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Grandpa",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Substitute Teacher",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 3",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Group Progression"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Progressive Mini-Sumo",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive Crane Hat Boy",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive F1 Racer",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Group Progression"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Grandma",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive Book Worm",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive Snow Child",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 4",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Dr. Katamari",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 4",
+      "Group 5",
+      "Group 6",
+	  "Group Progression"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive Excited Baby",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive Fund-raiser",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive Cowbear Farmer",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 5",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive Rain Coat Girl",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 2,
+    "name": "Progressive Bird & Elephant",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Progressive Just-right Girl",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+      "Group 6"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive Dog",
+    "category": [
+      "Progressive Levels",
+      "Level Unlock Mode",
+	  "Group 7"
     ],
     "progression": true
   },

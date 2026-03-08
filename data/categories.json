@@ -3,6 +3,12 @@
 		"yaml_option": ["level_unlock_mode"],
 		"hidden": true
 	},
+	"Progressive Levels": {
+		"yaml_option": ["progressive_level_unlocks"]
+	},
+	"Levels": {
+		"yaml_option": ["!progressive_level_unlocks"]
+	},
 	"Fans": {
 		"yaml_option": ["!level_unlock_mode"]
 	},
@@ -41,12 +47,10 @@
 		"yaml_option": ["level_unlock_mode"]
 	},
 	"Long": {
-		"yaml_option": ["enable_long_checks"],
-		"hidden": true
+		"yaml_option": ["enable_long_checks"]
 	},
 	"Difficult": {
-		"yaml_option": ["enable_difficult_checks"],
-		"hidden": true
+		"yaml_option": ["enable_difficult_checks"]
 	},
 	"Group 0": {
 		"hidden": true

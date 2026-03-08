@@ -1900,7 +1900,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:1|"
+	"requires": "|@Levels:1| or |@Progressive Levels:1|"
 	},
 	{
 		"name": "3 Levels Completed",
@@ -1908,7 +1908,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:2|"
+		"requires": "|@Levels:2| or |@Progressive Levels:2|"
 	},
 	{
 		"name": "4 Levels Completed",
@@ -1916,7 +1916,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:3|"
+		"requires": "|@Levels:3| or |@Progressive Levels:3|"
 	},
 	{
 		"name": "5 Levels Completed",
@@ -1924,7 +1924,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:4|"
+		"requires": "|@Levels:4| or |@Progressive Levels:4|"
 	},
 	{
 		"name": "6 Levels Completed",
@@ -1932,7 +1932,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:5|"
+		"requires": "|@Levels:5| or |@Progressive Levels:5|"
 	},
 	{
 		"name": "7 Levels Completed",
@@ -1940,7 +1940,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:6|"
+		"requires": "|@Levels:6| or |@Progressive Levels:6|"
 	},
 	{
 		"name": "8 Levels Completed",
@@ -1948,7 +1948,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:7|"
+		"requires": "|@Levels:7| or |@Progressive Levels:7|"
 	},
 	{
 		"name": "9 Levels Completed",
@@ -1956,7 +1956,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:8|"
+		"requires": "|@Levels:8| or |@Progressive Levels:8|"
 	},
 	{
 		"name": "10 Levels Completed",
@@ -1964,7 +1964,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:9|"
+		"requires": "|@Levels:9| or |@Progressive Levels:9|"
 	},
 	{
 		"name": "11 Levels Completed",
@@ -1972,7 +1972,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:10|"
+		"requires": "|@Levels:10| or |@Progressive Levels:10|"
 	},
 	{
 		"name": "12 Levels Completed",
@@ -1980,7 +1980,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:11|"
+		"requires": "|@Levels:11| or |@Progressive Levels:11|"
 	},
 	{
 		"name": "13 Levels Completed",
@@ -1988,7 +1988,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:12|"
+		"requires": "|@Levels:12| or |@Progressive Levels:12|"
 	},
 	{
 		"name": "14 Levels Completed",
@@ -1996,7 +1996,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:13|"
+		"requires": "|@Levels:13| or |@Progressive Levels:13|"
 	},
 	{
 		"name": "15 Levels Completed",
@@ -2004,7 +2004,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:14|"
+		"requires": "|@Levels:14| or |@Progressive Levels:14|"
 	},
 	{
 		"name": "16 Levels Completed",
@@ -2012,7 +2012,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:15|"
+		"requires": "|@Levels:15| or |@Progressive Levels:15|"
 	},
 	{
 		"name": "17 Levels Completed",
@@ -2020,7 +2020,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:16|"
+		"requires": "|@Levels:16| or |@Progressive Levels:16|"
 	},
 	{
 		"name": "18 Levels Completed",
@@ -2028,7 +2028,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:17|"
+		"requires": "|@Levels:17| or |@Progressive Levels:17|"
 	},
 	{
 		"name": "19 Levels Completed",
@@ -2036,7 +2036,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:18|"
+		"requires": "|@Levels:18| or |@Progressive Levels:18|"
 	},
 	{
 		"name": "20 Levels Completed",
@@ -2044,7 +2044,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:19|"
+		"requires": "|@Levels:19| or |@Progressive Levels:19|"
 	},
 	{
 		"name": "21 Levels Completed",
@@ -2052,7 +2052,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:20|"
+		"requires": "|@Levels:20| or |@Progressive Levels:20|"
 	},
 	{
 		"name": "22 Levels Completed",
@@ -2060,7 +2060,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:21|"
+		"requires": "|@Levels:21| or |@Progressive Levels:21|"
 	},
 	{
 		"name": "23 Levels Completed",
@@ -2068,7 +2068,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:22|"
+		"requires": "|@Levels:22| or |@Progressive Levels:22|"
 	},
 	{
 		"name": "24 Levels Completed",
@@ -2076,7 +2076,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:23|"
+		"requires": "|@Levels:23| or |@Progressive Levels:23|"
 	},
 	{
 		"name": "25 Levels Completed",
@@ -2084,7 +2084,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:24|"
+		"requires": "|@Levels:24| or |@Progressive Levels:24|"
 	},
 	{
 		"name": "26 Levels Completed",
@@ -2092,7 +2092,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:25|"
+		"requires": "|@Levels:25| or |@Progressive Levels:25|"
 	},
 	{
 		"name": "27 Levels Completed",
@@ -2100,7 +2100,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:26|"
+		"requires": "|@Levels:26| or |@Progressive Levels:26|"
 	},
 	{
 		"name": "28 Levels Completed",
@@ -2108,7 +2108,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:27|"
+		"requires": "|@Levels:27| or |@Progressive Levels:27|"
 	},
 	{
 		"name": "29 Levels Completed",
@@ -2116,7 +2116,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:28|"
+		"requires": "|@Levels:28| or |@Progressive Levels:28|"
 	},
 	{
 		"name": "30 Levels Completed",
@@ -2124,7 +2124,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:29|"
+		"requires": "|@Levels:29| or |@Progressive Levels:29|"
 	},
 	{
 		"name": "31 Levels Completed",
@@ -2132,7 +2132,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:30|"
+		"requires": "|@Levels:30| or |@Progressive Levels:30|"
 	},
 	{
 		"name": "32 Levels Completed",
@@ -2140,7 +2140,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:31|"
+		"requires": "|@Levels:31| or |@Progressive Levels:31|"
 	},
 	{
 		"name": "33 Levels Completed",
@@ -2148,7 +2148,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:32|"
+		"requires": "|@Levels:32| or |@Progressive Levels:32|"
 	},
 	{
 		"name": "34 Levels Completed",
@@ -2156,7 +2156,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:33|"
+		"requires": "|@Levels:33| or |@Progressive Levels:33|"
 	},
 	{
 		"name": "35 Levels Completed",
@@ -2164,7 +2164,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:34|"
+		"requires": "|@Levels:34| or |@Progressive Levels:34|"
 	},
 	{
 		"name": "36 Levels Completed",
@@ -2172,7 +2172,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:35|"
+		"requires": "|@Levels:35| or |@Progressive Levels:35|"
 	},
 	{
 		"name": "37 Levels Completed",
@@ -2180,7 +2180,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:36|"
+		"requires": "|@Levels:36| or |@Progressive Levels:36|"
 	},
 	{
 		"name": "38 Levels Completed",
@@ -2188,7 +2188,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:37|"
+		"requires": "|@Levels:37| or |@Progressive Levels:37|"
 	},
 	{
 		"name": "39 Levels Completed",
@@ -2196,7 +2196,7 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:38|"
+		"requires": "|@Levels:38| or |@Progressive Levels:38|"
 	},
 	{
 		"name": "40 Levels Completed",
@@ -2204,6 +2204,6 @@
 			"Levels Completed"
 		],
 		"place_item": ["Level Complete"],
-		"requires": "|@Levels:39|"
+		"requires": "|@Levels:39| or |@Progressive Levels:39|"
 	}
 ]

@@ -17,7 +17,8 @@
         "filler_traps": {
             "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
             "values": {
-                "recommended": 25
+                "recommended": 25,
+				"default": 0
             }
         }
     },
@@ -61,6 +62,20 @@
 			"template"
 		],
 		"default": false
+	},
+	"progressive_level_unlocks": {
+		"description": [
+			"Setting for use with Level Unlock Mode, makes level unlocks progressive instead of individual",
+			"With this enabled, you will unlock levels progressively, for example: 'Progressive Rainbow Girl' to unlock ALAP 1 and AFAP 1",
+			"With this disabled, you will unlock each individual level, for example: 'Level Unlock! ALAP 1' and 'Level Unlock! AFAP 1'"
+		],
+		"type": "Toggle",
+		"visibility": [
+			"simple_ui",
+			"complex_ui",
+			"template"
+		],
+		"default": true
 	},
 	"cousinsanity": {
 		"description": [
