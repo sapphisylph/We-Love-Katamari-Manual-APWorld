@@ -94,8 +94,7 @@
       "Group 4",
       "Group 5",
       "Group 6",
-	  "Fans",
-	  "Group Progression"
+	  "Fans"
     ],
     "progression": true
   },
@@ -119,8 +118,7 @@
       "Group 4",
       "Group 5",
       "Group 6",
-	  "Fans",
-	  "Group Progression"
+	  "Fans"
     ],
     "progression": true
   },
@@ -142,7 +140,8 @@
       "Group 4",
       "Group 5",
       "Group 6",
-	  "Fans"
+	  "Fans",
+	  "Group Progression"
     ],
     "progression": true
   },
@@ -153,8 +152,7 @@
       "Group 4",
       "Group 5",
       "Group 6",
-	  "Fans",
-	  "Group Progression"
+	  "Fans"
     ],
     "progression": true
   },
@@ -176,7 +174,8 @@
       "Group 4",
       "Group 5",
       "Group 6",
-	  "Fans"
+	  "Fans",
+	  "Group Progression"
     ],
     "progression": true
   },
@@ -198,8 +197,7 @@
       "Group 4",
       "Group 5",
       "Group 6",
-	  "Fans",
-	  "Group Progression"
+	  "Fans"
     ],
     "progression": true
   },
@@ -209,7 +207,8 @@
     "category": [
       "Group 5",
       "Group 6",
-	  "Fans"
+	  "Fans",
+	  "Group Progression"
     ],
     "progression": true
   },
@@ -229,7 +228,8 @@
     "category": [
       "Group 5",
       "Group 6",
-	  "Fans"
+	  "Fans",
+	  "Group Progression"
     ],
     "progression": true
   },
@@ -256,7 +256,8 @@
     "name": "Just-right Girl",
     "category": [
       "Group 6",
-	  "Fans"
+	  "Fans",
+	  "Group Progression"
     ],
     "progression": true
   },
@@ -1482,8 +1483,7 @@
       "Group 3",
       "Group 4",
       "Group 5",
-      "Group 6",
-	  "Group Progression"
+      "Group 6"
     ],
     "progression": true
   },
@@ -1536,8 +1536,7 @@
       "Group 3",
       "Group 4",
       "Group 5",
-      "Group 6",
-	  "Group Progression"
+      "Group 6"
     ],
     "progression": true
   },
@@ -1588,7 +1587,8 @@
       "Level Unlock Mode",
       "Group 4",
       "Group 5",
-      "Group 6"
+      "Group 6",
+	  "Group Progression"
     ],
     "progression": true
   },
@@ -1600,8 +1600,7 @@
       "Level Unlock Mode",
       "Group 4",
       "Group 5",
-      "Group 6",
-	  "Group Progression"
+      "Group 6"
     ],
     "progression": true
   },
@@ -1643,7 +1642,8 @@
       "Level Unlock Mode",
       "Group 4",
       "Group 5",
-      "Group 6"
+      "Group 6",
+	  "Group Progression"
     ],
     "progression": true
   },
@@ -1667,8 +1667,7 @@
       "Level Unlock Mode",
       "Group 4",
       "Group 5",
-      "Group 6",
-	  "Group Progression"
+      "Group 6"
     ],
     "progression": true
   },
@@ -1688,7 +1687,8 @@
       "Levels",
       "Level Unlock Mode",
       "Group 5",
-      "Group 6"
+      "Group 6",
+	  "Group Progression"
     ],
     "progression": true
   },
@@ -1710,7 +1710,8 @@
       "Levels",
       "Level Unlock Mode",
       "Group 5",
-      "Group 6"
+      "Group 6",
+	  "Group Progression"
     ],
     "progression": true
   },
@@ -1749,7 +1750,8 @@
     "category": [
       "Levels",
       "Level Unlock Mode",
-      "Group 6"
+      "Group 6",
+	  "Group Progression"
     ],
     "progression": true
   },
@@ -1874,8 +1876,7 @@
       "Group 3",
       "Group 4",
       "Group 5",
-      "Group 6",
-	  "Group Progression"
+      "Group 6"
     ],
     "progression": true
   },
@@ -1901,8 +1902,7 @@
       "Group 3",
       "Group 4",
       "Group 5",
-      "Group 6",
-	  "Group Progression"
+      "Group 6"
     ],
     "progression": true
   },
@@ -1926,7 +1926,8 @@
       "Level Unlock Mode",
       "Group 4",
       "Group 5",
-      "Group 6"
+      "Group 6",
+	  "Group Progression"
     ],
     "progression": true
   },
@@ -1938,8 +1939,7 @@
       "Level Unlock Mode",
       "Group 4",
       "Group 5",
-      "Group 6",
-	  "Group Progression"
+      "Group 6"
     ],
     "progression": true
   },
@@ -1963,7 +1963,8 @@
       "Level Unlock Mode",
       "Group 4",
       "Group 5",
-      "Group 6"
+      "Group 6",
+	  "Group Progression"
     ],
     "progression": true
   },
@@ -1987,8 +1988,7 @@
       "Level Unlock Mode",
       "Group 4",
       "Group 5",
-      "Group 6",
-	  "Group Progression"
+      "Group 6"
     ],
     "progression": true
   },
@@ -1999,7 +1999,8 @@
       "Progressive Levels",
       "Level Unlock Mode",
       "Group 5",
-      "Group 6"
+      "Group 6",
+	  "Group Progression"
     ],
     "progression": true
   },
@@ -2021,7 +2022,8 @@
       "Progressive Levels",
       "Level Unlock Mode",
       "Group 5",
-      "Group 6"
+      "Group 6",
+	  "Group Progression"
     ],
     "progression": true
   },
@@ -2051,7 +2053,8 @@
     "category": [
       "Progressive Levels",
       "Level Unlock Mode",
-      "Group 6"
+      "Group 6",
+	  "Group Progression"
     ],
     "progression": true
   },
