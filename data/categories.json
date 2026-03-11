@@ -78,5 +78,30 @@
 	},
 	"Group Progression": {
 		"hidden": true
+	},
+	"Camp Progression": {
+		"hidden": true
+	},
+	"School Progression": {
+		"hidden": true
+	},
+	"Race Progression": {
+		"hidden": true
+	},
+	"Zoo Progression": {
+		"hidden": true
+	},
+	"Needs Camp Progression": {
+		"hidden": true
+	},
+	"Needs School Progression": {
+		"hidden": true
+	},
+	"Needs Race Progression": {
+		"hidden": true
+	},
+	"Needs Zoo Progression": {
+		"hidden": true
 	}
+
 }
